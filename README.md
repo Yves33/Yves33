@@ -13,6 +13,7 @@ Developped during boring rainy days. Among others,
 + [PygletPexParticle](https://github.com/Yves33/PygletPexParticles) is a toy particle system (with editor and demo) for the [pyglet](https://github.com/pyglet/pyglet) game lib.
 + [SpriteMapGenerator](https://github.com/Yves33/SpritemapGenerator) is a quick and dirty opencv tool to isolate sprite bounding rects from sprite sheets.
 + [STlitePlayground](https://github.com/Yves33/STlitePlayground) is a collection of toy project(s) using the streamlit lite. runs entirely in brower (andoid compatible!)
++  [PyGlVideo](https://github.com/Yves33/PyGlVideo), a library to dispay videos in openGL textures and record video from openGL textures without gpu<->cpu copy.
 
 ### crap, work in progress and forks.
 As the name states, these do not deserve any desciption!
